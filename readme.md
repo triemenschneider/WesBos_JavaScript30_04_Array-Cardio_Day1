@@ -1,0 +1,1 @@
+[Array Cardio - Day1](https://courses.wesbos.com/account/access/584bb38699ec21353f30dee2/view/3dabaeb847) is part of [JavaScript 30](https://javascript30.com/) - a free course of [Wes Bos](https://twitter.com/wesbos).
